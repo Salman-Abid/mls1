@@ -1,0 +1,28 @@
+header{
+    background: url(./image/576502-cr7-wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+
+#page-title{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    color: red;
+}
+
+.p-title{
+    text-align: center;
+    color: tomato;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    text-decoration-style:wavy ;
+
+}
+.para{
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 20px 35px;
+}
